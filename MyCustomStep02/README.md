@@ -14,11 +14,11 @@ The Custom Step "**MyCustomStep02**" enables SAS Studio Flow users to ...
 
 * Options tab
 
-   ![](img/_template_tab1.png)
+   ![](img/MyCustomStep02_tab1.png)
 
 * Advanced tab
 
-   ![](img/_template_tab2.png)|
+   ![](img/MyCustomStep02_tab2.png)|
 
 ## Requirements
 2020.1.5 or later
