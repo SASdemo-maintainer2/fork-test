@@ -1,4 +1,8 @@
-Modified this README.md, then commit, followed by pull request. Let's see what happens.
+ENDRESULT: Maintainer need to resolve the conflict and see both contributions to the same file. The maintainer can then edit and decide what to keep/delete.
+
+Text added by CONTRIBUTOR in their forked repo: Modified this README.md, then commit, followed by pull request. Let's see what happens.
+=======
+Text added by MAINTAINER in origin repo. Let's see what happens when contributor of this step updates their readme without syncing their fork first. 
 # _template
 
 [[_TOC_]]
