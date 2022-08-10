@@ -1,6 +1,4 @@
-Some more bla bla and another commit (and then pull request)
-Added some bla bla and then commit
-
+Modified this README.md, then commit, followed by pull request. Let's see what happens.
 # _template
 
 [[_TOC_]]
